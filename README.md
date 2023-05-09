@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuyangoSamEvrald a software developer with 3+ years of experience
+- 👋 Hi, I’m @MuyangoSamEvrald a software developer with 5 years of experience
 - 👀 I’m interested in Software Development and Data Analysis since I hold a Bachelor's degree in Software Engineering, Diploma in Applied Business Analytics and Diploma in Educational Psychology. 
 - I have worked on dofferent projects in my past work experience and personal growth and research.
 - I didn't include all my projects in my repository here, and I believe I can do more.
